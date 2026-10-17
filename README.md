@@ -109,7 +109,7 @@ Push on a full stack: STACK OVERFLOW message. TOP = 50.
 - **Task performed:** Code drafting StackManager.java and StackGUI.java
 - **Prompts used:** draftme a code using this activity and explain line by line
 - **Extent of use:** Substantial drafting
-- **Verified by a human author:** Confirmed we reviewed and ran the code
+- **Verified by a human author:** Confirmed we reviewed and ran the codes
 - **Why and how AI was used:** By asking some questions how/why do things works and 
 completed.
 - **Estimated percentage of work assisted by AI:** 30%
