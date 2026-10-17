@@ -8,7 +8,7 @@
 
    Version: 1.0
 
-   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia
+   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia, Claude
 */
 
 import java.util.Arrays;
