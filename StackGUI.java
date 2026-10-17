@@ -8,7 +8,7 @@
 
    Version: 1.0
 
-   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia, Claude
+   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia, Claude 5.5
 */
 
 import javax.swing.*;
