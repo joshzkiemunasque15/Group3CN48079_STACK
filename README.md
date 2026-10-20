@@ -120,8 +120,12 @@ completed.
 
 | Member | Contribution |
 | --- | --- |
-| Joshua L. Muñasque | [e.g., StackManager.java] |
-| Leona Mae G. Hormachuelas | [e.g., StackGUI.java] |
-| Duezel Kurt Dioso | [e.g., test cases and screenshots] |
-| Eduardo Lamayon jr. | [e.g., README and documentation] |
-| Harold Nino Jangad | [e.g., README and documentation] |
+| Duezel Kurt N. Dioso, Eduardo JR. Lamayon & Joshua L. Muñasque | [StackManager.java] |
+| Joshua L. Muñasque, Harold Niño R. Jangad & Leona Mae G. Hormachuelas | [StackGUI.java] |
+| Duezel Kurt N. Dioso & Eduardo JR. Lamayon | [Testing Outputs for Task 1] |
+|  Joshua L. Muñasque & Leona Mae G. Hormachuelas | [Task 2] |
+| Harold Nino Jangad | [Task 3] |
+| Leona Mae G. Hormachuelas | [Creating Visualization] |
+| ALL MEMBERS | [ANSWERING ALL QUESTIONS] |
+| Leona Mae G. Hormachuelas & Harold Niño R. Jangad | [ReadME] |
+| Joshua L. Muñasque & Eduardo JR. Lamayon  | [Documentation] |
