@@ -9,7 +9,7 @@
    Version: 1.0
 
    Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Abdul Bari, Claude
-*/
+ */
 
 import java.util.Arrays;
 
@@ -29,7 +29,10 @@ public class StackManager {
     // Removes and returns the top value. Returns null (underflow) if the stack is empty.
     public Integer pop() {
         if (isEmpty()) return null;
-        return data[top--];
+        int value = data[top];
+        data[top] = 0;
+        top--;
+        return value;
     }
 
     // Returns the top value without removing it. Returns null if the stack is empty.
@@ -51,12 +54,13 @@ public class StackManager {
     }
 
     public void clear() {
+        Arrays.fill(data, 0);
         top = -1;
     }
 
     // Copy of the current elements (bottom to top) so the GUI can draw them
     // without access to the internal array.
     public int[] toArray() {
-        return Arrays.copyOf(data, size());
+        return Arrays.copyOfRange(data, 0, size());
     }
 }
