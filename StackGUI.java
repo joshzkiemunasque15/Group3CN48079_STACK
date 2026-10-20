@@ -2,14 +2,15 @@
    push, pop, peek, clear, check the stack, and generate a random stack. The display
    is redrawn after every operation and the top element is always marked.
 
-   Programmed by: Muñasque, Hormachuelas, Jangad, Dioso, Lamayon BSIT 48079 DSA
+   Programmed by: Joshua L. Muñasque, Harold Niño R. Jangad & Leona Mae G. Hormachuelas Muñasque BSIT 48079 DSA
 
-   Last Modified: October 17, 2026
+   Last Modified: October 20, 2026
 
    Version: 1.0
 
-   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia, Claude 5.5
-*/
+   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Abdul Bari, Claude
+ */
+
 
 import javax.swing.*;
 import java.awt.*;
