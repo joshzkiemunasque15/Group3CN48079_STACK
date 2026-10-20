@@ -9,7 +9,7 @@
    Version: 1.0
 
    Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Abdul Bari, Claude
-*/
+ */
 
 import javax.swing.*;
 import java.awt.*;
@@ -118,6 +118,7 @@ public class StackGUI extends JFrame {
             statusLabel.setText("The stack is NOT empty. Size: " + stack.size()
                     + " of " + StackManager.CAPACITY + ".");
         }
+        stackPanel.repaint();
     }
 
     void doRandom() {
@@ -125,7 +126,7 @@ public class StackGUI extends JFrame {
         stack.clear();
         int count = random.nextInt(StackManager.CAPACITY) + 1; // 1 to capacity
         for (int i = 0; i < count; i++) {
-            stack.push(random.nextInt(100) + 1);               // 1 to 100
+            stack.push(random.nextInt(100) + 1); // 1 to 100
         }
         statusLabel.setText("Random stack generated with " + count + " element(s).");
         stackPanel.repaint();
