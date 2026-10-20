@@ -47,6 +47,7 @@ The program has two separate components:
 ```
 javac StackManager.java StackGUI.java
 java StackGUI
+java ModifiedStackGUI
 ```
 
 Run both commands from the folder that contains the two `.java` files.
