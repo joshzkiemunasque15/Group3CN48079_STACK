@@ -130,5 +130,5 @@ completed.
 | Harold Nino Jangad | [Task 3] |
 | Leona Mae G. Hormachuelas | [Creating Visualization] |
 | ALL MEMBERS | [ANSWERING ALL QUESTIONS] |
-| Leona Mae G. Hormachuelas & Harold Niño R. Jangad | [ReadME] |
+| ALL MEMBERS  | [ReadME] |
 | Joshua L. Muñasque & Eduardo JR. Lamayon  | [Documentation] |
