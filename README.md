@@ -56,7 +56,7 @@ Additional status messages:
 
 ## Requirements
 
-- Java Development Kit (JDK) 11 or later
+- Java Development Kit (JDK) 11 or newer
 - No external libraries (uses only `javax.swing`, `java.awt`, `java.util`)
 
 ## How to Run the Program
