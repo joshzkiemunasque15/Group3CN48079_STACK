@@ -55,6 +55,7 @@ Run both commands from the folder that contains the two `.java` files.
 
 ```
 Group3CN48079_STACK/
+└── ModifiedStackGUI.java (GUI component)
 ├── StackManager.java   (stack component)
 ├── StackGUI.java       (GUI component)
 └── README.md
