@@ -2,7 +2,7 @@
    push, pop, peek, clear, check the stack, and generate a random stack. The display
    is redrawn after every operation and the top element is always marked.
 
-   Programmed by: Duezel Kurt N. Dioso, Eduardo JR. Lamayon & Joshua L. Muñasque BSIT 48079 DSA
+   Programmed by: Joshua L. Muñasque, Harold Niño R. Jangad & Leona Mae G. Hormachuelas Muñasque BSIT 48079 DSA
 
    Last Modified: October 17, 2026
 
