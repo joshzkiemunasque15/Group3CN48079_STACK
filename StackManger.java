@@ -4,12 +4,12 @@
 
    Programmed by: Muñasque, Hormachuelas, Jangad, Dioso, Lamayon BSIT 48079 DSA
 
-   Last Modified: October 17, 2026
+   Last Modified: October 20, 2026
 
    Version: 1.0
 
-   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Wikipedia, Claude
-*/
+   Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Abdul Bari, Claude
+ */
 
 import java.util.Arrays;
 
