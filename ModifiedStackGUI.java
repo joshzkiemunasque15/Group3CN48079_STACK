@@ -8,7 +8,7 @@
 
    Last Modified: October 20, 2026
 
-   Version: 2.0
+   Version: 1.1
 
    Acknowledgements: Ma’am Pauline Rivas, W3Schools, GeeksforGeeks, Abdul Bari, Claude
 */
