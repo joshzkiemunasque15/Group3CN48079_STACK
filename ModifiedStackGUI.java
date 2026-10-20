@@ -1,5 +1,3 @@
-
-
 /* Description: Swing GUI that visualizes two array-based bounded stacks (Stack A and
    Stack B). The user can push, pop, peek, clear, check the stack, and generate a random
    stack on the selected stack. The user can also transfer the top element of Stack A to
