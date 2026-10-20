@@ -6,7 +6,7 @@
    Stack B, undo the most recent operation, view the operation history, and set the
    maximum capacity of the stacks. The display is redrawn after every operation.(CHALLENGES)
 
-   Programmed by: Joshua L. Muñasque & Leona Mae G. Hormachuelas BSIT 48079 DSA
+   Programmed by: Duezel Kurt N. Dioso, Joshua L. Muñasque & Leona Mae G. Hormachuelas BSIT 48079 DSA
 
    Last Modified: October 20, 2026
 
