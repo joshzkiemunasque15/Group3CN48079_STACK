@@ -49,7 +49,8 @@ public class StackGUI extends JFrame {
         add(controls, BorderLayout.NORTH);
         add(stackPanel, BorderLayout.CENTER);
         add(statusLabel, BorderLayout.SOUTH);
-
+       
+       
         pushBtn.addActionListener(e -> doPush());
         popBtn.addActionListener(e -> doPop());
         peekBtn.addActionListener(e -> doPeek());
@@ -60,6 +61,7 @@ public class StackGUI extends JFrame {
         setSize(720, 560);
         setLocationRelativeTo(null);
         setVisible(true);
+       
     }
 
     void doPush() {
