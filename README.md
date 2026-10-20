@@ -8,7 +8,7 @@ Group 3 (CN 48079)
 
 - Joshua L. Muñasque
 - Leona Mae G. Hormachuelas
-- Duezel Kurt Dioso
+- Duezel Kurt N. Dioso
 - Eduardo Lamayon jr.
 - Harold Niño R. Jangad
 
@@ -20,6 +20,8 @@ The program has two separate components:
 
 - **StackManager** keeps the stack data and performs the stack operations.
 - **StackGUI** receives user input, calls the stack's methods, and draws the stack.
+- **ModifiedStackGUI**  visualizes two array-based bounded stacks (Stack A and
+   Stack B).
 
 ## Features
 
