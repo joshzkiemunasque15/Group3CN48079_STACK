@@ -10,7 +10,7 @@ Group 3 (CN 48079)
 - Leona Mae G. Hormachuelas
 - Duezel Kurt Dioso
 - Eduardo Lamayon jr.
-- Harold Nino Jangad
+- Harold Niño R. Jangad
 
 ## Description of the Program
 
